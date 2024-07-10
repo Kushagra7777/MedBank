@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MedBank/static/css/main.b552aaf8.css",
+    "main.js": "/MedBank/static/js/main.0e9b2a1b.js",
+    "static/js/453.68627093.chunk.js": "/MedBank/static/js/453.68627093.chunk.js",
+    "index.html": "/MedBank/index.html",
+    "main.b552aaf8.css.map": "/MedBank/static/css/main.b552aaf8.css.map",
+    "main.0e9b2a1b.js.map": "/MedBank/static/js/main.0e9b2a1b.js.map",
+    "453.68627093.chunk.js.map": "/MedBank/static/js/453.68627093.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b552aaf8.css",
+    "static/js/main.0e9b2a1b.js"
+  ]
+}
